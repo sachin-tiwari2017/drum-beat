@@ -1,0 +1,51 @@
+body{
+  text-align: center;
+  background-color: #FFE9A0;
+}
+h1{
+  color: #F57328;
+
+  margin-top: 1rem;
+  font-family: 'Smooch', cursive;
+  font-size: 6rem;
+}
+.div-image{
+  display : inline-block;
+  margin-bottom: 15rem;
+  margin-right: 9rem;
+}
+.container
+{
+  margin-top : 8rem;
+  margin-left : 4rem;
+}
+/* .background-image{        after taking button only we can set background image
+  position : relative;
+  margin-top: 10rem;
+  margin-right: 2rem;
+  width : 6rem;
+  height : 8rem;
+  background-image: url("images/tom2.png");
+  background-color: transparent ;
+  border-style: groove;
+  border-color: #FF7777;
+  border-width: 0.7rem;
+} */
+img{
+  width : 6rem ;
+  height : 8rem;
+  position: absolute;
+  border-style: groove;
+  border-color: #FF7777;
+  border-width: 0.7rem;
+}
+button{
+  font-size: 2rem;
+  color: #F57328;
+  border-style: none;
+  background-color: pink;
+  margin : 5rem 1rem 1rem 1rem;
+  position: absolute;
+  height: 2rem;
+  width : 5rem;
+}
